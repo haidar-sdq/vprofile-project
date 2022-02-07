@@ -210,7 +210,7 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>https://visualpath-221521956616.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <url>https://visualpath-901919143823.d.codeartifact.ap-south-1.amazonaws.com/maven/maven-central-store/</url>
       </repository>
     </repositories>
 </project>
